@@ -27,7 +27,6 @@ namespace CSharpBasic
 
             AbsClass impl2 = new Impl();
             impl2.VirtualMethod();
-
         }
     }
 

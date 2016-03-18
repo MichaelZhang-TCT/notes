@@ -20,7 +20,7 @@ namespace CSharpBasic
             int i = 2;
             int i2 = new int();
             System.Int32 integer32 = i;
-            ValueType valueType = integer32;
+            ValueType valueType = i2;
             Console.WriteLine("int:" + valueType);
 
             // bool

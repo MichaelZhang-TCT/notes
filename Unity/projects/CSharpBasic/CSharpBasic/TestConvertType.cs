@@ -10,13 +10,14 @@ namespace CSharpBasic
     {
         public void Test()
         {
-            // 1. implicitly - from smaller range to larger
+            #region 1. implicitly - from smaller range to larger
             int i = 10;
             long l = i; // from int to long
             float f = i; // from int to float
 
             SubClass subCls = new SubClass();
             BaseClass baseCls = subCls; // from sub-class to base
+            #endregion
 
             // 2. explicitlyy - from larger range to smaller
             f = 2.05F;

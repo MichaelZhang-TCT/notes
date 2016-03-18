@@ -44,7 +44,9 @@
     <Compile Include="TestBed.cs" />
     <Compile Include="Testable.cs" />
     <Compile Include="TestClass.cs" />
+    <Compile Include="TestCollections.cs" />
     <Compile Include="TestInterface.cs" />
+    <Compile Include="TestLogic.cs" />
     <Compile Include="TestReferenceType.cs" />
     <Compile Include="TestValueType.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
