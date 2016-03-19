@@ -47,6 +47,7 @@
     <Compile Include="TestCollections.cs" />
     <Compile Include="TestInterface.cs" />
     <Compile Include="TestLogic.cs" />
+    <Compile Include="TestObjectOriented.cs" />
     <Compile Include="TestReferenceType.cs" />
     <Compile Include="TestValueType.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

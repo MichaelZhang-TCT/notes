@@ -10,7 +10,7 @@ namespace CSharpBasic
     {
         static void Main(string[] args)
         {
-            var test = new TestCollections();
+            var test = new TestObjectOriented();
             test.Test();
         }
     }

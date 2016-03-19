@@ -33,10 +33,10 @@ namespace CSharpBasic
         }
     }
 
-    class Person // default access modifier is "internal" which can access in namespace
+    class Person // default access modifier for class is "internal" which can access in assembly
     {
         // field
-        int mAge; // default access modifier of field and method is "private" which can only access in this Class
+        int mAge; // default access modifier for field and method is "private" which can only access in this Class
 
         // property
         public string Name { get; set; }
