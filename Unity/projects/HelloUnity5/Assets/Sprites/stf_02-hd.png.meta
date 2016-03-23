@@ -1,0 +1,530 @@
+fileFormatVersion: 2
+guid: bc855690bfadca24283b3fded431aec2
+timeCreated: 1457498139
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: stf_02-hd_0
+    21300002: stf_02-hd_1
+    21300004: stf_02-hd_2
+    21300006: stf_02-hd_3
+    21300008: stf_02-hd_4
+    21300010: stf_02-hd_5
+    21300012: stf_02-hd_6
+    21300014: stf_02-hd_7
+    21300016: stf_02-hd_8
+    21300018: stf_02-hd_9
+    21300020: stf_02-hd_10
+    21300022: stf_02-hd_11
+    21300024: stf_02-hd_12
+    21300026: stf_02-hd_13
+    21300028: stf_02-hd_14
+    21300030: stf_02-hd_15
+    21300032: stf_02-hd_16
+    21300034: stf_02-hd_17
+    21300036: stf_02-hd_18
+    21300038: stf_02-hd_19
+    21300040: stf_02-hd_20
+    21300042: stf_02-hd_21
+    21300044: stf_02-hd_22
+    21300046: stf_02-hd_23
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: stf_02-hd_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 403
+        width: 70
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26, y: 54.5}
+        - {x: -35, y: 48.5}
+        - {x: -35, y: -37.5}
+        - {x: -34, y: -46.5}
+        - {x: -17, y: -54.5}
+        - {x: 35, y: -54.5}
+        - {x: 35, y: 54.5}
+    - name: stf_02-hd_1
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 405
+        width: 77
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 53.5}
+        - {x: -31.5, y: 42.5}
+        - {x: -38.5, y: 23.5}
+        - {x: -38.5, y: -16.5}
+        - {x: -24.5, y: -53.5}
+        - {x: 26.5, y: -53.5}
+        - {x: 38.5, y: -44.5}
+        - {x: 38.5, y: 46.5}
+        - {x: 24.5, y: 53.5}
+    - name: stf_02-hd_2
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 405
+        width: 78
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27, y: 53.5}
+        - {x: -39, y: 28.5}
+        - {x: -39, y: -30.5}
+        - {x: -26, y: -53.5}
+        - {x: 32, y: -53.5}
+        - {x: 39, y: -37.5}
+        - {x: 39, y: 44.5}
+        - {x: 34, y: 53.5}
+    - name: stf_02-hd_3
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 406
+        width: 69
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -26.5, y: 53}
+        - {x: -34.5, y: 46}
+        - {x: -34.5, y: -50}
+        - {x: -32.5, y: -53}
+        - {x: 28.5, y: -53}
+        - {x: 34.5, y: -20}
+        - {x: 34.5, y: 53}
+    - name: stf_02-hd_4
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 405
+        width: 71
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21.5, y: 53.5}
+        - {x: -35.5, y: 49.5}
+        - {x: -35.5, y: -30.5}
+        - {x: -33.5, y: -53.5}
+        - {x: 30.5, y: -53.5}
+        - {x: 35.5, y: -51.5}
+        - {x: 35.5, y: 52.5}
+        - {x: 34.5, y: 53.5}
+    - name: stf_02-hd_5
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 411
+        width: 70
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 26, y: 50.5}
+        - {x: -18, y: 50.5}
+        - {x: -35, y: 43.5}
+        - {x: -35, y: -35.5}
+        - {x: -21, y: -50.5}
+        - {x: 24, y: -50.5}
+        - {x: 34, y: -44.5}
+        - {x: 35, y: -40.5}
+        - {x: 35, y: 38.5}
+    - name: stf_02-hd_6
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 293
+        width: 69
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24.5, y: 53.5}
+        - {x: -19.5, y: 53.5}
+        - {x: -34.5, y: 48.5}
+        - {x: -34.5, y: -53.5}
+        - {x: 27.5, y: -53.5}
+        - {x: 34.5, y: -29.5}
+        - {x: 34.5, y: 42.5}
+        - {x: 33.5, y: 45.5}
+    - name: stf_02-hd_7
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 293
+        width: 69
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 54.5}
+        - {x: -34.5, y: 47.5}
+        - {x: -34.5, y: -52.5}
+        - {x: -32.5, y: -54.5}
+        - {x: 34.5, y: -54.5}
+        - {x: 34.5, y: 51.5}
+        - {x: 28.5, y: 54.5}
+    - name: stf_02-hd_8
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 295
+        width: 78
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -21, y: 53.5}
+        - {x: -39, y: 22.5}
+        - {x: -39, y: -51.5}
+        - {x: -38, y: -53.5}
+        - {x: 35, y: -53.5}
+        - {x: 39, y: -49.5}
+        - {x: 39, y: 50.5}
+        - {x: 31, y: 53.5}
+    - name: stf_02-hd_9
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 297
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 16, y: 52.5}
+        - {x: -32, y: 52.5}
+        - {x: -36, y: 44.5}
+        - {x: -36, y: -52.5}
+        - {x: 36, y: -52.5}
+        - {x: 36, y: 36.5}
+    - name: stf_02-hd_10
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 297
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 52.5}
+        - {x: -30, y: 51.5}
+        - {x: -36, y: 35.5}
+        - {x: -36, y: -50.5}
+        - {x: -28, y: -52.5}
+        - {x: 32, y: -52.5}
+        - {x: 36, y: -46.5}
+        - {x: 36, y: 41.5}
+        - {x: 23, y: 52.5}
+    - name: stf_02-hd_11
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 300
+        width: 70
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -22, y: 51}
+        - {x: -35, y: 42}
+        - {x: -35, y: -38}
+        - {x: -24, y: -51}
+        - {x: 27, y: -51}
+        - {x: 35, y: -36}
+        - {x: 35, y: 44}
+        - {x: 30, y: 51}
+    - name: stf_02-hd_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 183
+        width: 74
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 53.5}
+        - {x: -37, y: 44.5}
+        - {x: -37, y: -32.5}
+        - {x: -28, y: -53.5}
+        - {x: 32, y: -53.5}
+        - {x: 37, y: -26.5}
+        - {x: 37, y: 48.5}
+        - {x: 32, y: 53.5}
+    - name: stf_02-hd_13
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 185
+        width: 78
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -19, y: 53.5}
+        - {x: -39, y: 28.5}
+        - {x: -39, y: -20.5}
+        - {x: -28, y: -53.5}
+        - {x: 29, y: -53.5}
+        - {x: 39, y: -7.5}
+        - {x: 39, y: 40.5}
+        - {x: 29, y: 53.5}
+    - name: stf_02-hd_14
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 188
+        width: 71
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -31.5, y: 53}
+        - {x: -35.5, y: 47}
+        - {x: -35.5, y: -50}
+        - {x: -30.5, y: -53}
+        - {x: 20.5, y: -53}
+        - {x: 35.5, y: 2}
+        - {x: 35.5, y: 39}
+        - {x: 29.5, y: 53}
+    - name: stf_02-hd_15
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 189
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -29, y: 52.5}
+        - {x: -36, y: 43.5}
+        - {x: -36, y: -47.5}
+        - {x: -32, y: -50.5}
+        - {x: -25, y: -52.5}
+        - {x: 26, y: -52.5}
+        - {x: 36, y: -18.5}
+        - {x: 36, y: 48.5}
+        - {x: 33, y: 52.5}
+    - name: stf_02-hd_16
+      rect:
+        serializedVersion: 2
+        x: 374
+        y: 192
+        width: 69
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 51}
+        - {x: -34.5, y: 48}
+        - {x: -34.5, y: -43}
+        - {x: -23.5, y: -51}
+        - {x: 32.5, y: -51}
+        - {x: 34.5, y: -45}
+        - {x: 34.5, y: 51}
+    - name: stf_02-hd_17
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 77
+        width: 73
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 23.5, y: 51.5}
+        - {x: -23.5, y: 51.5}
+        - {x: -26.5, y: 49.5}
+        - {x: -36.5, y: 37.5}
+        - {x: -36.5, y: -9.5}
+        - {x: -31.5, y: -43.5}
+        - {x: -18.5, y: -51.5}
+        - {x: 22.5, y: -51.5}
+        - {x: 36.5, y: -45.5}
+        - {x: 36.5, y: 37.5}
+    - name: stf_02-hd_18
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 77
+        width: 72
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -36, y: 52.5}
+        - {x: -36, y: -11.5}
+        - {x: -29, y: -43.5}
+        - {x: -22, y: -52.5}
+        - {x: 35, y: -52.5}
+        - {x: 36, y: -48.5}
+        - {x: 36, y: 47.5}
+        - {x: 31, y: 52.5}
+    - name: stf_02-hd_19
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 75
+        width: 69
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -23.5, y: 53.5}
+        - {x: -34.5, y: 46.5}
+        - {x: -34.5, y: -53.5}
+        - {x: 30.5, y: -53.5}
+        - {x: 34.5, y: -41.5}
+        - {x: 34.5, y: 53.5}
+    - name: stf_02-hd_20
+      rect:
+        serializedVersion: 2
+        x: 224
+        y: 77
+        width: 69
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -34.5, y: 53.5}
+        - {x: -34.5, y: -52.5}
+        - {x: -32.5, y: -53.5}
+        - {x: 32.5, y: -53.5}
+        - {x: 34.5, y: -52.5}
+        - {x: 34.5, y: 48.5}
+        - {x: 26.5, y: 53.5}
+    - name: stf_02-hd_21
+      rect:
+        serializedVersion: 2
+        x: 298
+        y: 79
+        width: 70
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -35, y: 53.5}
+        - {x: -35, y: -53.5}
+        - {x: 24, y: -53.5}
+        - {x: 35, y: -50.5}
+        - {x: 35, y: 45.5}
+        - {x: 22, y: 53.5}
+    - name: stf_02-hd_22
+      rect:
+        serializedVersion: 2
+        x: 370
+        y: 80
+        width: 69
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -25.5, y: 53}
+        - {x: -34.5, y: 48}
+        - {x: -34.5, y: -31}
+        - {x: -27.5, y: -53}
+        - {x: 34.5, y: -53}
+        - {x: 34.5, y: 53}
+    - name: stf_02-hd_23
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 87
+        width: 69
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -27.5, y: 50.5}
+        - {x: -34.5, y: 42.5}
+        - {x: -34.5, y: -46.5}
+        - {x: -33.5, y: -50.5}
+        - {x: 18.5, y: -50.5}
+        - {x: 34.5, y: -35.5}
+        - {x: 34.5, y: 37.5}
+        - {x: 27.5, y: 50.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
