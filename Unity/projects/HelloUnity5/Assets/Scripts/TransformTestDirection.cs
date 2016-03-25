@@ -41,10 +41,11 @@ public class TransformTestDirection : MonoBehaviour {
             // push
             if (cube.transform.parent == transform)
             {
-                // 1. 
+                // 1. restore bullet's state
                 cubeRigidbody.isKinematic = false;
                 cube.transform.parent = null;
 
+                // 2. add an impluse
                 Vector3 worldDirection = transform.TransformDirection(0, 0, 1); // forward
                 cubeRigidbody.AddForce(worldDirection * 10, ForceMode.Impulse);
             }

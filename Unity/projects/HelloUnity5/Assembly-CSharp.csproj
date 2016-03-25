@@ -51,10 +51,12 @@
      <Compile Include="Assets\Scripts\MainCamera.cs" />
      <Compile Include="Assets\Scripts\PhysicsContol.cs" />
      <Compile Include="Assets\Scripts\RoleController.cs" />
+     <Compile Include="Assets\Scripts\RotateTest.cs" />
      <Compile Include="Assets\Scripts\ScriptLifcycle.cs" />
      <Compile Include="Assets\Scripts\TestScript.cs" />
      <Compile Include="Assets\Scripts\TransformTest.cs" />
      <Compile Include="Assets\Scripts\TransformTestDirection.cs" />
+     <Compile Include="Assets\Scripts\TranslateTest.cs" />
      <Compile Include="Assets\Scripts\TriggerTest.cs" />
      <None Include="Assets\Standard Assets\CrossPlatformInput\CrossPlatformInputGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\ThirdPersonCharacter\ThirdPersonCharacterGuidelines.txt" />
