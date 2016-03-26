@@ -3,6 +3,7 @@ using System.Collections;
 
 public class QuaternionTest : MonoBehaviour {
 
+    public float speed = 30;
     public GameObject target;
 
 	// Use this for initialization
@@ -33,7 +34,7 @@ public class QuaternionTest : MonoBehaviour {
 
         // 4. calculate the interplate rotation by step, and set the rotation to that value
         // interplate to target rotation
-        Quaternion interplateRotation = transform.rotation = Quaternion.RotateTowards(rotation, targetRotation, 1);
+        Quaternion interplateRotation = transform.rotation = Quaternion.RotateTowards(rotation, targetRotation, speed * Time.deltaTime);
         Debug.Log("Quaternion interplateRotation=" + interplateRotation);
     }
 }
