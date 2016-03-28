@@ -49,7 +49,10 @@
      <Compile Include="Assets\Scripts\CubeController.cs" />
      <Compile Include="Assets\Scripts\EnableDisable.cs" />
      <Compile Include="Assets\Scripts\MainCamera.cs" />
+     <Compile Include="Assets\Scripts\Mathematic\Math3D.cs" />
+     <Compile Include="Assets\Scripts\Mathematic\MathOthers.cs" />
      <Compile Include="Assets\Scripts\Mathematic\MathfBasic.cs" />
+     <Compile Include="Assets\Scripts\Mathematic\MathfInterpolate.cs" />
      <Compile Include="Assets\Scripts\Mathematic\RandomTest.cs" />
      <Compile Include="Assets\Scripts\Mathematic\TimeTest.cs" />
      <Compile Include="Assets\Scripts\PhysicsContol.cs" />
