@@ -6,7 +6,7 @@ public class MouseDrag : MonoBehaviour {
     public float scaleFactor = 1.3F;
     public float rotateVelocity = 45F;
     public float depth = 20F;
-    public Camera camera = null;
+    public Camera cameraObject = null;
 
 	// Use this for initialization
 	void Start()
@@ -44,7 +44,7 @@ public class MouseDrag : MonoBehaviour {
     void Move()
     {
         // ray from mouse position
-        Ray r = camera.ScreenPointToRay(Input.mousePosition);
+        Ray r = cameraObject.ScreenPointToRay(Input.mousePosition);
 
         RaycastHit hitInfo;
         if (Physics.Raycast(r, out hitInfo, 1000F, 1)) // hit something in the scene, use layermask to filter the object itself
@@ -63,7 +63,7 @@ public class MouseDrag : MonoBehaviour {
     {
         Vector3 mouseScreen = Input.mousePosition;
         mouseScreen.z = depth;
-        Vector3 mouseWorld = camera.ScreenToWorldPoint(mouseScreen);
+        Vector3 mouseWorld = cameraObject.ScreenToWorldPoint(mouseScreen);
         transform.position = mouseWorld;
 
         Debug.Log("mouseScreen=" + mouseScreen + ", mouseWorld=" + mouseWorld);

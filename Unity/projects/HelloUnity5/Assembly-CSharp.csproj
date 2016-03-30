@@ -48,6 +48,7 @@
      <Compile Include="Assets\Scripts\CollisionDetected.cs" />
      <Compile Include="Assets\Scripts\CubeController.cs" />
      <Compile Include="Assets\Scripts\EnableDisable.cs" />
+     <Compile Include="Assets\Scripts\GUI\GUITest.cs" />
      <Compile Include="Assets\Scripts\Inputs\InputMouse.cs" />
      <Compile Include="Assets\Scripts\Inputs\InputTest.cs" />
      <Compile Include="Assets\Scripts\Inputs\MouseDrag.cs" />
@@ -60,6 +61,7 @@
      <Compile Include="Assets\Scripts\Mathematics\MathfInterpolate.cs" />
      <Compile Include="Assets\Scripts\Mathematics\RandomTest.cs" />
      <Compile Include="Assets\Scripts\Mathematics\TimeTest.cs" />
+     <Compile Include="Assets\Scripts\MonoBehaviors\CoroutineTest.cs" />
      <Compile Include="Assets\Scripts\MonoBehaviors\DestroyTest.cs" />
      <Compile Include="Assets\Scripts\PhysicsContol.cs" />
      <Compile Include="Assets\Scripts\QuaternionTest.cs" />
