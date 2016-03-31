@@ -38,16 +38,18 @@
     <Reference Include="System.Core" />
     <Reference Include="System.Xml.Linq" />
     <Reference Include="UnityEngine">
-      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEngine.dll</HintPath>
+      <HintPath>D:/Program Files/Unity5/Editor/Data/Managed/UnityEngine.dll</HintPath>
     </Reference>
     <Reference Include="UnityEditor">
-      <HintPath>C:/Program Files/Unity/Editor/Data/Managed/UnityEditor.dll</HintPath>
+      <HintPath>D:/Program Files/Unity5/Editor/Data/Managed/UnityEditor.dll</HintPath>
     </Reference>
   </ItemGroup>
   <ItemGroup>
      <Compile Include="Assets\Scripts\CollisionDetected.cs" />
      <Compile Include="Assets\Scripts\CubeController.cs" />
      <Compile Include="Assets\Scripts\EnableDisable.cs" />
+     <Compile Include="Assets\Scripts\GUI\GUILayoutTest.cs" />
+     <Compile Include="Assets\Scripts\GUI\GUISkinStyleTest.cs" />
      <Compile Include="Assets\Scripts\GUI\GUITest.cs" />
      <Compile Include="Assets\Scripts\Inputs\InputMouse.cs" />
      <Compile Include="Assets\Scripts\Inputs\InputTest.cs" />
@@ -63,6 +65,7 @@
      <Compile Include="Assets\Scripts\Mathematics\TimeTest.cs" />
      <Compile Include="Assets\Scripts\MonoBehaviors\CoroutineTest.cs" />
      <Compile Include="Assets\Scripts\MonoBehaviors\DestroyTest.cs" />
+     <Compile Include="Assets\Scripts\MonoDev\MonoDevTest.cs" />
      <Compile Include="Assets\Scripts\PhysicsContol.cs" />
      <Compile Include="Assets\Scripts\QuaternionTest.cs" />
      <Compile Include="Assets\Scripts\RoleController.cs" />
@@ -79,10 +82,10 @@
      <None Include="Assets\Standard Assets\Characters\FirstPersonCharacter\FirstPersonCharacterGuidelines.txt" />
      <None Include="Assets\Standard Assets\Characters\RollerBall\RollerBallGuidelines.txt" />
  <Reference Include="UnityEngine.UI">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
+ <HintPath>D:/Program Files/Unity5/Editor/Data/UnityExtensions/Unity/GUISystem/UnityEngine.UI.dll</HintPath>
  </Reference>
  <Reference Include="UnityEngine.Networking">
- <HintPath>C:/Program Files/Unity/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
+ <HintPath>D:/Program Files/Unity5/Editor/Data/UnityExtensions/Unity/Networking/UnityEngine.Networking.dll</HintPath>
  </Reference>
   </ItemGroup>
   <ItemGroup>
